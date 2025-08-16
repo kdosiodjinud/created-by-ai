@@ -1,0 +1,35 @@
+# Composer
+vendor/
+composer.lock
+
+# PHP
+*.php[cod]
+*$py.class
+
+# Development
+.env
+.idea/
+.vscode/
+
+# Build
+build/
+dist/
+
+# Temporary files
+*.tmp
+*.bak
+*.swp
+.DS_Store
+
+# Logs
+*.log
+
+# Testing
+.phpunit.result.cache
+
+# Dependency directories
+node_modules/
+jspm_packages/
+
+# Coverage
+/coverage
