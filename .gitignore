@@ -1,0 +1,30 @@
+# PHP Composer
+vendor/
+composer.lock
+
+# IDE specific files
+.vscode/
+.idea/
+*.sublime-project
+*.sublime-workspace
+
+# Logs
+logs/
+*.log
+
+# Environment files
+.env
+.env.local
+.env.development
+.env.production
+
+# Dependency directories
+node_modules/
+
+# Build outputs
+build/
+dist/
+
+# System files
+.DS_Store
+Thumbs.db
